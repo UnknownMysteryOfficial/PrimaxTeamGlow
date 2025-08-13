@@ -1,0 +1,5 @@
+name: PrimaxTeamGlow
+version: '1.0.0'
+main: net.primaxstudios.primaxteamglow.PrimaxTeamGlow
+api-version: '1.20'
+depend: [BetterTeams]
