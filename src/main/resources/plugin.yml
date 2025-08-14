@@ -2,5 +2,5 @@ name: PrimaxTeamGlow
 version: '1.0.0'
 author: MrErrorX
 main: net.primaxstudios.primaxteamglow.PrimaxTeamGlow
-api-version: '1.20'
+api-version: '1.13'
 depend: [BetterTeams]
